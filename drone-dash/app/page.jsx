@@ -35,7 +35,7 @@ const Home = () => {
 					src={intelligentFarming}
 					alt="Intelligent Farming"
 					layout="fill" // Use fill layout to make the image cover the entire section
-					// objectFit="cover" // Ensure the image covers the entire section
+					objectFit="cover" // Ensure the image covers the entire section
 					quality={100}
 				/>
 
